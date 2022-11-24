@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(174, 255, 185);
+    text-align: center;
+}
+.login_div1,.login_div2{
+    background-color: crimson;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+    margin-left: 33%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#jogador1nome,#jogador2nome{
+    display: inline-block;
+}
